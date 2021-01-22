@@ -45,4 +45,16 @@ select{
   position: absolute;
   left: 285px;
   top: 7px;
+  z-index: 33;
+}
+.barra-bianca input{
+  height: 44px;
+  width: 350px;
+}
+.barra-bianca{
+  display: inline-block;
+  position: absolute;
+  left: 420px;
+  top: 7px;
+
 }
